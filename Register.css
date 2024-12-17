@@ -1,0 +1,45 @@
+@charset "UTF-8";
+*{
+	padding:0px;
+	margin:0px;
+}
+form{
+	height: 600px;
+	width: 400px;
+	padding-left: 150px;
+	padding-right: 100px;
+	padding-top: 20px;
+	background-color:#bfc1bf;
+	margin-left: 350px;
+	align-items: center;
+}
+
+h1{
+	font-size: 40px;
+	text-align: center;
+	
+}
+label{
+	font-size: 25px;
+	
+}
+.main{
+	font-size: 15px;
+	border:none;
+	border-radius: 15px;
+	height: 30px;
+	width: 250px;
+	text-align: center;
+}
+#btn{
+	margin-left:150px;
+	height: 50px;
+	width: 100px;
+	font-size: 30px;
+	
+}
+.radio{
+	height: 20px;
+	width: 25px;
+}
+
